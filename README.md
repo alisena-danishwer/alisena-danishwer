@@ -25,4 +25,4 @@ Beyond programming, I have a keen interest in data analysis and machine learning
 ## Get in Touch 📬
 
 - **[LinkedIn]**(https://www.linkedin.com/in/ali-sena-danishwer-346a88280/)
-- **Email**(danishweralisenad@gmail.com)
+- **[Email]**(danishweralisena@gmail.com)
